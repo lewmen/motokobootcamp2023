@@ -1,7 +1,8 @@
 Questions:
 
 How much is the current memory capacity of a canister?
-a canister 4GB
+
+  a canister 4GB
 
 
 What is the issue with the following code sample?
